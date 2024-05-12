@@ -1,5 +1,4 @@
-# weather-fetcher
-A simple Python script to fetch and display weather data using the OpenWeatherMap API.
+
 # Weather Fetcher
 
 This Python script provides real-time weather information, including temperature, humidity, wind speed, and more, using the OpenWeatherMap API.
